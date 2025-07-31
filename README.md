@@ -97,9 +97,10 @@ git push
 Each Unit of this class I will look into your journal and give you participation credit.
 While this journal is yours to personalize there some guidelines.
 I will mostly be grading based on effort.
+The whole units notes will be looked at the end of the unit. 
 
-| Topic      | Task | Points |
-|------------|------|--------|
-| Retention  |      |        |
-| Completion |      |        | 
-| Creativity |      |        | 
+| Topic      | Task                                                                            | Points |
+|------------|---------------------------------------------------------------------------------|--------|
+| Retention  | How many of the topics covered are represented in the notes                     | 3pts   |
+| Completion | How well where the topics explored though the notes.                            | 3pts   | 
+| Creativity | How efficiently where digrams and other learning tools implemented in the notes | 4pts   | 
