@@ -1,0 +1,14 @@
+Definitions
+	Algoritms- A set of rules that a machine can follow to learn how to do a task
+	AI- Trained on big data to generate outcomes for different scenarios
+	Bias- While not being biased themselves, computers/AI are made by people with their own opinions or biases
+	Black Box- Can't tell the process between a given input and the output produced
+	Context Window- The set of data given during a period of time
+	Emergent Behavior- 
+	Generative AI- 
+	Hallucination- AI making something up
+	Large Language Model (LLM)- 
+	Meta Prompt/System Prompt- 
+	Prompt Engineering- Optimizing prompts to be more efficient and get better results
+	AI Temperature- 
+	Tokenizer- Inputs are tokenized or split up based on how it splits characters
