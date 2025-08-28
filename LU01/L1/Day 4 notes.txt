@@ -1,0 +1,15 @@
+Cost per million tokens differs between different AI
+Context Window is the memory that an AI has, after so long of conversing it will forget previous commands (ex. chatbot going back to regular typing after so long of all caps)
+Free open source software allows people to see and change code and see how it works
+Closed proprietary doesn't allow you to see and change how things work
+In sense of AI free open source would be being able to see/change the training data used, processes to get outputs from a prompt etc.
+Full truth on AI background knowledge not fully out there like energy usage
+People say power usage will get better but if it does demand will most likely go up
+AI affecting power grids
+Microsoft bringing back nuclear reactors to power AI
+Energy is in big demand
+Cost per token goes down but # of tokens goes up
+Reasoning tokens are being computed but are still contributing to token cost
+Grok costs dollars per prompt while smaller ones without reasoning or less reasoning costs cents
+Used to make AI bigger to make improvements
+Models now use reasoning to make improvements

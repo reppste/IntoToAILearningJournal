@@ -1,0 +1,13 @@
+Computing power through any AI is all run through the cloud or someone else's server
+Email produces less of a carbon footprint than a physical letter
+Attachments add more to said footprint
+Cost of AI is little because it's being subsidized or funded to gain market share
+Allegedly data used to train AI was copyrighted, their counterclaim is that it was all open knowledge from the internet
+ChatGPT used youtube video transcripts to train AI (ex. using AI for minecraft tutorial instead of watching a video)
+Data centers a lot of power but also uses a lot of water for cooling the servers
+Can't be proved that AI uses legal methods to obtain data for private paid things like books
+The more AI concentrated the internet is, the more concentrated on AI generated content the trained AI will be.
+Twitter AI cropping out different colored people due to biased training even if unintentional
+Tay chatbot was trained off of all twitter accounts posts and was fed a lot of inappropriate data and started posting inappropriate things.
+AI chatbots can feed into people's hallucinations after prolonged conversations
+ChatGPT 5.0 provides more cold less personalized outputs compared to ChatGPT 4.0 to combat feeding into people's hallucinations.
