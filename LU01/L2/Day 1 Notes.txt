@@ -1,0 +1,24 @@
+Prompt Engineering- making a short efficient prompt to get everything you need from an output from AI
+Prompt- Any input given for an AI to produce an output
+Shorter responses that give you everything needed to make AI cheaper to use
+Give clear concise prompts with context
+AI can be wrong don't just fall into "You're holding it wrong" mentality where it's just the user's fault
+
+Start prompt with task
+	Give AI who you are or what it is being made for
+	Give the way it needs to be output
+
+Follow with context
+	Good: give me some ideas for a birthday present. Under $30
+	Great: Give me 5 ideas for a birthday present with a budget of $30 dollars. The gift is for a 29 year old who loves winter sports. Recently switched from snowboarding to skiing.
+
+Give reference
+	Additional input data or ideas
+
+Evaluate Output from AI
+
+Iterate
+	Go back and fix errors
+
+Break down into different steps
+This provides better outputs than trying to do it all at once.

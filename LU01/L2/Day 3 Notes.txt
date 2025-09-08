@@ -1,0 +1,16 @@
+When you ask AI how it gets answers it makes something up
+Chain of Density
+When you give ai 30pg doc and ask for summary it wont be very good
+Too dense
+Do it all in one go and you lose a lot of information
+Breaking it down allows you to fact check and get more relevant information
+Chain of Density breaks something down so that important information is kept and can better summarize something
+Ragging goes beyond the limitations of an LLM
+Doesn't give accurate data when it isn't trained on data it's being asked about
+Hallucinates anything it doesn't know
+It uses data with no source up until the last day it was trained for
+Ragging feeds data to the AI so it has something to look at and has references for questions on that data
+Data given on a non-locally ran AI goes back to the original AI's company
+Vercel is agentic meaning it can do stuff more than just giving text
+Documents can be edited, videos can be created and more with agents
+Agents can do stuff in the real world and use software to send emails, use create test and edit code, create and edit videos and other stuff that somebody might do in the real world
