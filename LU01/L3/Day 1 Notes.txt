@@ -1,0 +1,9 @@
+Multi-media is any media that can be on any platform
+AI generated Multi-media is multi-media that is enhanced by AI
+TTS- converts written text to natural sounding speech
+Voice cloning- uses a voice sample to convert text to voice using that voice
+Text to video- takes text and creates a video from that
+Image to Video- takes an image and turns it into a video
+Prompt engineering for this will be different
+Need to describe tone, pacing, and consider the audience
+break prompts into smaller sentences less = more
