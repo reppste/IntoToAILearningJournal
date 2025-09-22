@@ -1,0 +1,11 @@
+Vibe Coding- Future is now old fart, AI codes for you and you manage it
+There needs to be a mix knowing what it the code means and what for input
+10x Devs are "10x as productive" as 1 developer
+Done for speed
+Can't fully rely on AI to make code
+Can hallucinate heavily creating methods that don't exist and depends on context window
+All training data is always outdated
+Relying on AI softens your development
+Very very expensive to create code with AI
+Messages can go upwards of $20 and there's no refunds when it doesn't work
+AI can quickly convert CSS and Tailwind

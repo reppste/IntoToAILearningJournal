@@ -1,0 +1,15 @@
+AI can have more knowledge on a topic
+AI is lazy
+Can prefer to fix errors by just deleting what's wrong
+Can produce solutions that break the functionality
+Can create it's own methods and libraries that don't exist and therefore won't work.
+Can be fed references to make AI function better
+Another pitfall is security risks
+Cannot copy and paste proprietary code into online AI chatbots
+Most companies have local AI models
+AI is great at fixing syntax errors
+AI is great with patterns
+AI is fairly good with logical errors
+But the bigger the problem and the more complex it is, it can struggle a lot and can set you wrong
+AI is trained and knows what the most common solutions are for problems
+Skyrim Store AI shenanigans
