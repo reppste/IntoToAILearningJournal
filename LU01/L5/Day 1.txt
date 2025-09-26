@@ -1,0 +1,32 @@
+What hardware is?
+Any physical piece of equipment to make a computer function
+
+Starts with motherboard connects everything together
+
+Desktops have socketed CPU
+CPU thinks
+
+Everything else that thinks connects to CPU through PCIe slots
+example - GPU, wifi card, nvme storage
+
+PSU - converts power from wall outlet to give computer power
+
+RAM - really fast, temp storage, expensive
+ECC - error corrcting code
+Non-ECC - not error correcting (cheaper)
+
+Storage
+HDD - has disk that spins
+SSD - faster, no disk that spins, has 2 forms
+
+Expansion Drives
+Network Cards
+GPU- does everything CPU doesn't, physics, AI, video processing, does a lot of small tasks fast
+VRAM - Faster than normal RAM
+
+Raspberry Pi- Credit Card Computer
+
+More linux propaganda
+
+mkdir - makes a directory
+cd - goes into that directory

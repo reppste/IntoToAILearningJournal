@@ -1,0 +1,22 @@
+Virtualization
+Used to break up a big machine into smaller machines
+Used for security
+Not every piece of software can run on all software
+Creates a software base 
+Hypervisor makes virtualization possible
+Pulls resources from hardware to virtualize different software
+Type 1 hypervisor is installed on top of the server
+Type 2 hypervisor has a layer of host OS between the physical and hypervisor
+We will work with type 2 hypervisor
+Used for end user
+Using VirtualBox today
+Has higher latency because it's not directly connected to the server
+Use hypervisor to build virtual machines
+You can use VMWare to run software you don't trust and it won't affect your physical server
+You can run different OS on different VMs
+Portable
+Host is the physical computer
+Virtual machine cuts resources in half
+VM is weaker than host
+GPU cannot be passed through to VM
+Cannot copy and paste into VM unless you change it
