@@ -1,0 +1,1 @@
+AI can range in performance being run locally based on your hardware
