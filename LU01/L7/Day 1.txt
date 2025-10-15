@@ -1,0 +1,16 @@
+Got Svelte and Node.js downlaoded
+started with Svelte, just a couple basics
+
+
+// creates project folder in directory
+npx sv create (insert filename)
+
+
+// creates new project in my-app
+npx sv create my-app
+
+// starts the server to open the app and follow along while making edits
+npm run dev
+
+// starts the server and opens the app in the web browser
+npm run dev -- --open

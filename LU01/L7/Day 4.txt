@@ -1,0 +1,1 @@
+Made student registry site with svelte using AI.
