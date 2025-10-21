@@ -1,0 +1,7 @@
+Worked on Pair vibe coding assignment.
+
+The first and second days we worked on implementing 2 of our own features before passing it off to the next group
+We had it all done by the end of the first class.
+The second day we went over it and made sure it worked properly.
+The third day we passed it off to another group and received one back.
+We fixed some bugs that were present and implemented 2 more features into the program.
